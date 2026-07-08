@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🎯 **Mission**: 「データはあるのに活用できていない」「手動のCSV操作に追われている」といった現場のジレンマを、API連携によるフルクラウド化で解消すること。
 
 ## 🏆 Key Achievements
+- **Findy スキル偏差値**: **総合 62.0 / JavaScript 62.3** （日本のエンジニア上位10〜15%相当）
 - **ネクストエンジンAPI 認証基盤の独自構築**: 
   複雑なOAuth2.0認証フローを独学で解析・突破し、複数プロジェクトで使い回せる「認証ライブラリ」として標準化。
 - **データ処理の高速化**: 
@@ -34,10 +35,12 @@ Here are some ideas to get you started:
   - 1日3回の手動CSV集計を「1日5回の自動更新」へシフト（出荷予定数・売上集計）。
   - 同梱伝票の紐付け情報をAPIで自動抽出し、運賃削減と事務工数削減の両立を実現。
 
-## 💻 Tech Stack & Tools
+- ## 💻 Tech Stack & Tools
 - **Languages**: Google Apps Script (GAS), JavaScript, (Classical: N88-BASIC)
-- **APIs**: ネクストエンジン API, Google Sheets API
-- **AI Tools**: Claude 3.5/3.7, Gemini 2.0/3.0, GitHub Copilot (Collaboration Partner)
+- **Databases / BaaS**: Supabase, PostgreSQL, Google Sheets API
+- **Infrastructure & Network**: TP-Link Omada (Mesh Wi-Fi), インターネット回線冗長化(ロードバランス), 固定IPアクセス制限
+- **APIs**: ネクストエンジン API
+- **AI Tools**: Claude 3.5/3.7/5, Gemini 2.0/3.0/3.5, GitHub Copilot (Collaboration Partner)
 - **Methodology**: Agile, Small Steps, Vibe Coding
 
 ## 🌿 Philosophy
